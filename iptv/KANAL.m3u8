@@ -1,0 +1,104 @@
+#EXTM3U
+#EXTINF:-1 group-title="Кино" tvg-id="ntv-xit", НТВ-Хит
+http://cdn.ntv.ru/th_hit/tracks-v1a1/playlist.m3u8
+#EXTINF:-1 group-title="Кино" tvg-id="ntv-serial", НТВ-Сериал
+http://cdn.ntv.ru/th_serial/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="KINO",Дом Кино
+https://s.xittv.net/YNw22pUyJymY9jGF926rgg/186/1766410950/index.m3u8
+#EXTINF:-1 group-title="KINO",Дом Кино
+http://178.212.71.253:8000/play/99/index.m3u8
+#EXTINF:-1 group-title="TEST ⓵", Дом кино
+https://flussonic.salomtv.uz/domkino/video.m3u8
+#EXTINF:-1 group-title="TEST ⓵",Дом Кино Премиум
+http://85.11.144.6:6060/play/a07v/index.m3u8
+#EXTINF:-1 group-title="ВЛАДИНФО (VPN)", Дом кино
+http://95.66.188.74/Dom_kino/mono.m3u8
+#EXTINF:-1 group-title="Общие" tvg-id="pervy", Первый канал
+http://194.8.128.38:8080/ort/playlist.m3u8
+#EXTINF:-1 group-title="Общие" tvg-id="pervy", Первый канал HD
+http://95.66.188.74/PerviyHD/mono.m3u8
+#EXTINF:-1 group-title="Общие" tvg-id="rossia1", Россия 1 HD
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/1080p.m3u8
+#EXTINF:-1 group-title="Общие" tvg-id="ntv", НТВ
+http://cdn.ntv.ru/ntv0/tracks-v3a1/mono.m3u8
+#EXTINF:-1 group-title="Общие" tvg-id="ntv", НТВ HD
+http://cdn.ntv.ru/ntv0_hd/tracks-v1a1/rewind-7150.m3u8
+#EXTINF:-1 group-title="Общие" tvg-id="ntv-belarus", НТВ-Беларусь
+http://194.158.222.36:6107
+#EXTINF:-1 group-title="Общие" tvg-id="5kanal-ru", Пятый канал
+http://95.66.188.74/5kanal/index.m3u8
+#EXTINF:-1 group-title="Общие" tvg-id="5kanal-ru" catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}", Пятый канал (Архив)
+#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
+#EXTINF:-1 group-title="Общие" tvg-id="rentv", Рен ТВ
+http://185.46.16.239:8000/REN_TV
+#EXTINF:-1 group-title="Общие" tvg-id="rentv" catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}", Рен ТВ (Архив)
+#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
+#EXTINF:-1 group-title="Общие" tvg-id="zvezda", Звезда
+http://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_sdhigh.m3u8
+#EXTINF:-1 group-title="Общие" tvg-id="zvezda", Звезда HD
+https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
+#EXTINF:-1 group-title="Общие" tvg-id="mir", Мир
+http://185.46.16.239:8000/Mir
+#EXTINF:-1 group-title="Общие" tvg-id="tnv-planeta", ТНВ Планета
+http://user91229.clients-cdnnow.ru/hls/user91229_1.m3u8
+#EXTINF:-1 group-title="Кино" tvg-id="domkino-premium", Дом кино Премиум HD
+http://95.66.188.74/DomKinoPremiumHD/mono.m3u8
+#EXTINF:-1 group-title="Кино", Русский детектив
+http://195.158.223.132:8008/Russkiy_Detektiv
+#EXTINF:-1 group-title="Кино", viju TV1000 HD
+http://vod.splay.uz/live_splay/original/TV1000/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Общие",МИР
+https://river-5-558.rtbcdn.ru/stream/genetta-323.m9.rutube.ru/92CSSake8nk2ekc5zr4jVw/1766414033/afef67d151b5a607dee1ef0aa299a52c/1080p_stream.m3u8
+#EXTINF:-1 tvg-id="5kanal-ru" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://iptvx.one/picons/5kanal-ru.png",Пятый канал
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+http://zabava-htlive.cdn.ngenix.net/hls/CH_5TV/variant.m3u8
+#EXTINF:-1 group-title="Общие",Рен ТВ
+http://cdn4.skygo.mn/live/disk1/RenTV/HLSv3-FTA/RenTV.m3u8
+#EXTINF:-1 tvg-id="tv3-ru" tvg-logo="https://iptvx.one/picons/tv3-ru.png",ТВ3
+#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_TV3/variant.m3u8
+#EXTINF:-1 tvg-id="tvcentr" tvg-logo="https://iptvx.one/picons/tvcentr.png",ТВ Центр
+http://tvc-hls.cdnvideo.ru/tvc-res/smil:vd9221_2.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="mir-24" tvg-logo="https://iptvx.one/picons/mir24.png",Мир 24 HD
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
+#EXTINF:-1 tvg-id="mult" tvg-logo="https://iptvx.one/picons/mult.png",Мульт HD
+http://stv.mediacdn.ru/live/cdn/mult/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="domashny" tvg-logo="https://iptvx.one/picons/domashny.png",Домашний
+#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNIY/variant.m3u8
+#EXTINF:-1 tvg-id="domashny-int" tvg-logo="https://iptvx.one/picons/domashny-int.png",Домашний Int.
+https://cdn4.skygo.mn/live/disk1/Domashni/HLSv3-FTA/Domashni.m3u8
+#EXTINF:-1 tvg-id="sts" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://iptvx.one/picons/sts.png",СТС
+#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer 
+https://zabava-htlive.cdn.ngenix.net/hls/CH_STS/variant.m3u8
+#EXTINF:-1 tvg-id="sts-love" tvg-logo="https://iptvx.one/picons/sts-love.png",СТС Love
+http://tv.streams.baikal-telecom.net:8080/CTC_LOVE/index.m3u8
+#EXTINF:-1 tvg-id="super" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://iptvx.one/picons/subbota.png",Суббота
+#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER/variant.m3u8
+#EXTINF:-1 tvg-id="tnt-pl2" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp} "tvg-logo="https://iptvx.one/picons/tnt.png",ТНТ
+#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT/variant.m3u8
+#EXTINF:-1 tvg-id="tnt" tvg-logo="https://iptvx.one/picons/tnt.png",ТНТ HD
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://95.66.188.74/TNT_HD/mono.m3u8
+#EXTINF:-1 tvg-id="tnt4" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp} tvg-logo="https://iptvx.one/picons/tnt4.png",ТНТ4
+#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4/variant.m3u8
+#EXTINF:-1 tvg-id="ru-tv" tvg-logo="https://iptvx.one/picons/ru-tv.png",RU TV
+https://hls-03-video.webcaramba.com/rutv/live_480/index.m3u8
+#EXTINF:-1 tvg-id="patriot" tvg-logo="https://iptvx.one/picons/patriot.png",Патриот
+http://catchup.videoline.ru/asvtv/index.m3u8
+#EXTINF:-1 tvg-id="rentv" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Эфирные",РЕН ТВ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+http://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV/variant.m3u8
+#EXTINF:-1 tvg-id="tvcentr" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Эфирные",ТВ Центр
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+http://zabava-htlive.cdn.ngenix.net/hls/CH_TVC/variant.m3u8
+#EXTINF:-1 group-title="Новости",Беларусь 24
+https://edge50.dc.beltelecom.by/ngtrk/smil:belarus24.smil/chunklist_b5160000_sleng.m3u8
+
+
+
+
+
