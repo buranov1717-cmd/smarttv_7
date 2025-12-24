@@ -15,6 +15,8 @@ http://95.66.188.74/Dom_kino/mono.m3u8
 http://194.8.128.38:8080/ort/playlist.m3u8
 #EXTINF:-1 group-title="Общие" tvg-id="pervy", Первый канал HD
 http://95.66.188.74/PerviyHD/mono.m3u8
+#EXTINF:-1 group-title="Кино" tvg-id="pobeda", Победа
+https://pkvc-hls7.cdnvideo.ru/pkvc/pobeda/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="Общие" tvg-id="rossia1", Россия 1 HD
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/1080p.m3u8
 #EXTINF:-1 group-title="Общие" tvg-id="ntv", НТВ
