@@ -5,9 +5,9 @@ http://cdn.ntv.ru/th_hit/tracks-v1a1/playlist.m3u8
 http://cdn.ntv.ru/th_serial/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="KINO",Дом Кино
 http://178.212.71.253:8000/play/99/index.m3u8
-#EXTINF:-1 group-title="TEST ⓵", Дом кино
+#EXTINF:-1 group-title="Кино", Дом кино
 https://flussonic.salomtv.uz/domkino/video.m3u8
-#EXTINF:-1 group-title="TEST ⓵",Дом Кино Премиум
+#EXTINF:-1 group-title="Кино",Дом Кино Премиум
 http://85.11.144.6:6060/play/a07v/index.m3u8
 #EXTINF:-1 group-title="ВЛАДИНФО (VPN)", Дом кино
 http://95.66.188.74/Dom_kino/mono.m3u8
