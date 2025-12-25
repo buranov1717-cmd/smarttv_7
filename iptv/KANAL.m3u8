@@ -7,7 +7,7 @@ http://cdn.ntv.ru/th_serial/tracks-v1a1/mono.m3u8
 http://178.212.71.253:8000/play/99/index.m3u8
 #EXTINF:-1 group-title="Кино", Дом кино
 https://flussonic.salomtv.uz/domkino/video.m3u8
-#EXTINF:-1 group-title="Кино" tvg-id="dom kino premium" tvg-logo="dom kino premium",Дом Кино Премиум
+#EXTINF:-1 group-title="Кино" tvg-id="dom kino premium" tvg-logo="https://ramnet.ru/tv/logo/000002943.png", Дом Кино Премиум
 http://85.11.144.6:6060/play/a07v/index.m3u8
 #EXTINF:-1 group-title="ВЛАДИНФО (VPN)", Дом кино
 http://95.66.188.74/Dom_kino/mono.m3u8
@@ -41,7 +41,7 @@ https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
 http://185.46.16.239:8000/Mir
 #EXTINF:-1 group-title="Общие" tvg-id="tnv-planeta", ТНВ Планета
 http://user91229.clients-cdnnow.ru/hls/user91229_1.m3u8
-#EXTINF:-1 group-title="Кино" tvg-id="dom kino premium" tvg-logo="https://ramnet.ru/tv/logo/000002943.png", Дом кино Премиум HD
+#EXTINF:-1 group-title="Кино" tvg-id="dom kino premium" tvg-logo="https://ramnet.ru/tv/logo/000002943.png", Дом Кино Премиум
 http://95.66.188.74/DomKinoPremiumHD/mono.m3u8
 #EXTINF:-1 group-title="Кино", Русский детектив
 http://195.158.223.132:8008/Russkiy_Detektiv
