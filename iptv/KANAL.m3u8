@@ -25,7 +25,7 @@ https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/1080p.m3u8
 http://cdn.ntv.ru/ntv0/tracks-v3a1/mono.m3u8
 #EXTINF:-1 group-title="Общие" tvg-id="ntv", НТВ HD
 http://cdn.ntv.ru/ntv0_hd/tracks-v1a1/rewind-7150.m3u8
-#EXTINF:-1 group-title="Общие" tvg-id="ntv-belarus" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/NTV_Belarus.svg/2048px-NTV_Belarus.png", НТВ-Беларусь
+#EXTINF:-1 group-title="Общие" tvg-id="ntv-belarus", НТВ-Беларусь
 http://194.158.222.36:6107
 #EXTINF:-1 group-title="Общие" tvg-id="5kanal-ru", Пятый канал
 http://95.66.188.74/5kanal/index.m3u8
