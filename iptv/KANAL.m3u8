@@ -15,13 +15,13 @@ http://95.66.188.74/Dom_kino/mono.m3u8
 http://194.8.128.38:8080/ort/playlist.m3u8
 #EXTINF:-1 group-title="Общие" tvg-id="pervy", Первый канал HD
 http://95.66.188.74/PerviyHD/mono.m3u8
-#EXTINF:-1 group-title="Кино" tvg-id="pobeda" tvg-logo="https://images.iptv.rt.ru/images/ch4dibbmhk079s3jpetg.png", Победа
+#EXTINF:-1 group-title="Кино" tvg-logo="https://images.iptv.rt.ru/images/ch4dibbmhk079s3jpetg.png", Победа
 https://pkvc-hls7.cdnvideo.ru/pkvc/pobeda/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="Общие" tvg-id="rossia1", Россия 1 HD
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/1080p.m3u8
-#EXTINF:-1 group-title="Общие" tvg-id="ntv", НТВ
+#EXTINF:-1 group-title="Общие" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/NTV_logo_2003.svg/1200px-NTV_logo_2003.png", НТВ
 http://cdn.ntv.ru/ntv0/tracks-v3a1/mono.m3u8
-#EXTINF:-1 group-title="Общие" tvg-id="ntv", НТВ HD
+#EXTINF:-1 group-title="Общие" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/NTV_logo_2003.svg/1200px-NTV_logo_2003.png", НТВ HD
 http://cdn.ntv.ru/ntv0_hd/tracks-v1a1/rewind-7150.m3u8
 #EXTINF:-1 group-title="Общие" tvg-id="ntv-belarus", НТВ-Беларусь
 http://194.158.222.36:6107
@@ -49,8 +49,6 @@ http://195.158.223.132:8008/Russkiy_Detektiv
 http://vod.splay.uz/live_splay/original/TV1000/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="russkai-komedia" tvg-logo="https://www.cableman.ru/sites/default/files/komediya.jpg", Русская комедия
 http://95.66.188.74/Comedia/mono.m3u8
-#EXTINF:-1 group-title="Общие",МИР
-https://river-5-558.rtbcdn.ru/stream/genetta-323.m9.rutube.ru/92CSSake8nk2ekc5zr4jVw/1766414033/afef67d151b5a607dee1ef0aa299a52c/1080p_stream.m3u8
 #EXTINF:-1 tvg-id="5kanal-ru" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://iptvx.one/picons/5kanal-ru.png",Пятый канал
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://zabava-htlive.cdn.ngenix.net/hls/CH_5TV/variant.m3u8
