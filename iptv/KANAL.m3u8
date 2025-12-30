@@ -35,7 +35,9 @@ http://185.46.16.239:8000/REN_TV
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 #EXTINF:-1 group-title="Общие" tvg-id="zvezda", Звезда
 http://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_sdhigh.m3u8
-#EXTINF:-1 group-title="Общие" tvg-id="zvezda", Звезда HD
+#EXTINF:-1 group-title="Общие" tvg-id="zvezda", Звезда
+https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
+#EXTINF:-1 group-title="Общие" tvg-id="zvezda", Звезда
 https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
 #EXTINF:-1 group-title="Общие" tvg-id="mir", Мир
 http://185.46.16.239:8000/Mir
