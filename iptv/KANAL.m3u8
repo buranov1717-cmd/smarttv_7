@@ -13,6 +13,8 @@ http://178.212.71.253:8000/play/99/index.m3u8
 https://flussonic.salomtv.uz/domkino/video.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="dom kino premium" tvg-logo="https://ramnet.ru/tv/logo/000002943.png", Дом Кино Премиум
 http://95.66.188.74/DomKinoPremiumHD/mono.m3u8
+#EXTINF:-1 group-title="Кино" tvg-id="domkino-premium", Дом кино Премиум HD
+http://95.66.188.74/DomKinoPremiumHD/mono.m3u8
 #EXTINF:-1 group-title="ВЛАДИНФО (VPN)", Дом кино
 http://95.66.188.74/Dom_kino/mono.m3u8
 #EXTINF:-1 group-title="Общие" tvg-id="pervy" tvg-logo="https://www.cableman.ru/sites/default/files/pervyy_kanal.png", Первый канал
