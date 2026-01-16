@@ -43,6 +43,8 @@ http://185.46.16.239:8000/REN_TV
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 #EXTINF:-1 group-title="Общие" tvg-id="zvezda", Звезда HD
 http://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
+#EXTINF:-1 group-title="Общие" tvg-id="zvezda", Звезда +2
+http://a787201481-zabava-htlive.cdn.ngenix.net/hls/CH_ZVEZDA_2/video_800x450_avc1/playlist.m3u8?useseq=t&version=2
 #EXTINF:-1 group-title="Общие" tvg-id="mir", Мир
 http://185.46.16.239:8000/Mir
 #EXTINF:-1 group-title="Общие" tvg-id="tnv-tatarstan" tvg-logo="https://www.cableman.ru/sites/default/files/tnv.png", ТНВ ТАТАРСТАН
