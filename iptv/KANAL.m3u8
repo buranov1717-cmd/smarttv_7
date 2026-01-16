@@ -2,7 +2,7 @@
 #EXTINF:-1 tvg-id="domashny-int" tvg-logo="https://iptvx.one/picons/domashny-int.png" group-title="Развлекательные",Домашний Int.
 https://cdn4.skygo.mn/live/disk1/Domashni/HLSv3-FTA/Domashni.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="ntv-xit" tvg-logo="https://ramnet.ru/tv/logo/000003615.png", НТВ-Хит
-https://s.pokaz.me/qgABohmCzZE5m8ic70keOw/508/1768569969/index.m3u8
+https://cdn.ntv.ru/th_style/playlist.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="ntv-serial" tvg-logo="https://toplogos.ru/images/logo-ntv-serial.png", НТВ-Сермал
 https://cdn.ntv.ru/th_serial/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="ntv-serial" tvg-logo="https://toplogos.ru/images/logo-ntv-serial.png", НТВ-Сермал
