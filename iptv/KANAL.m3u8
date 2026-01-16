@@ -24,8 +24,8 @@ https://s.pokaz.me/lOQKgnKUW-7wsMFR-1EtJQ/187/1768570040/index.m3u8
 https://s.xittv.net/NMy3sRk2l0VfoZ_3DO6vuQ/186/1768566349/index.m3u8
 #EXTINF:-1 group-title="Общие" tvg-id="pervy" tvg-logo="https://www.cableman.ru/sites/default/files/pervyy_kanal.png", Первый канал
 http://194.8.128.38:8080/ort/playlist.m3u8
-#EXTINF:-1 group-title="Общие" tvg-id="pervy", Первый канал HD
-http://95.66.188.74/PerviyHD/mono.m3u8
+#EXTINF:-1 group-title="Общие" tvg-id="pervy", Первый канал
+http://a3285275077-zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD/video_800x450_avc1/playlist.m3u8?useseq=t&version=2
 #EXTINF:-1 group-title="Кино" tvg-id="pobeda" tvg-logo="https://images.iptv.rt.ru/images/ch4dibbmhk079s3jpetg.png", Победа
 https://pkvc-hls7.cdnvideo.ru/pkvc/pobeda/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="rossia-24" tvg-logo="https://iptvx.one/picons/rossia-24.png" group-title="Информационные",Россия 24
