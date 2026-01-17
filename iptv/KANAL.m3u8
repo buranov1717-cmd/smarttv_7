@@ -85,6 +85,8 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER/variant.m3u8
 https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT/variant.m3u8
 #EXTINF:-1 tvg-id="tnt" tvg-logo="https://iptvx.one/picons/tnt.png",ТНТ+2
 http://dmi3y-tv6.ru/hls/DVB-T2/CH_TNT_2.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",ТНТ (+2)
+http://dmi3y-tv6.ru/hls/DVB-T2/CH_TNT_2.m3u8
 #EXTINF:-1 tvg-id="tnt4" tvg-logo="https://iptvx.one/picons/tnt4.png",ТНТ4
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4/variant.m3u8
