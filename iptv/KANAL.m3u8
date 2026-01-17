@@ -38,7 +38,7 @@ https://edge06-alm.beetv.kz/bpk-token/3an@khix0fxda3kxmbfpubdcxqovl40b0vozkr42sf
 #EXTINF:-1 group-title="Общие" tvg-id="5kanal-ru", Пятый канал
 http://a787201477-zabava-htlive.cdn.ngenix.net/hls/CH_5TV/video_800x450_avc1/playlist.m3u8?useseq=t&version=2
 #EXTINF:-1 group-title="Общие" tvg-id="rentv", Рен ТВ
-http://185.46.16.239:8000/REN_TV
+http://dmi3y-tv6.ru/hls/DVB-T2/CH_RENTV.m3u8
 #EXTINF:-1 group-title="Общие" tvg-id="zvezda", Звезда +2
 http://a787201481-zabava-htlive.cdn.ngenix.net/hls/CH_ZVEZDA_2/video_800x450_avc1/playlist.m3u8?useseq=t&version=2
 #EXTINF:-1 group-title="Общие" tvg-id="mir", Мир
