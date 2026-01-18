@@ -38,7 +38,7 @@ http://a787200762-zabava-htlive.cdn.ngenix.net/hls/CH_NTV/video_800x450_avc1/pla
 #EXTINF:-1 group-title="Общие" tvg-id="ntv-belarus", НТВ-Беларусь
 http://194.158.222.36:6107
 #EXTINF:-1 group-title="Кино" tvg-id="russkoe" tvg-logo="https://ladamedia.ru/files/other/viju_tv1000_russkoe_color_rgb_02_channel_1677649823.png", Вижу TV1000 Русское
-https://edge07-alm.beetv.kz/bpk-token/3an@p3e1jtiztmhnswj05d3jdjwtgzlhzo0ep3plsqba/bpk-tv/000003748/tve/000003748-audio_82882_rus=82400-video=5287600.m3u8
+https://edge07-alm.beetv.kz/bpk-token/3an@auq12pqmdot5bheszjtxrbxz5aaf2g5dau1lhmba/bpk-tv/000003748/tve/000003748-audio_82882_rus=82400-video=5287600.m3u8
 #EXTINF:-1 group-title="Общие" tvg-id="5kanal-ru", Пятый канал
 http://a3569457544-zabava-htlive.cdn.ngenix.net/hls/CH_5TV/video_800x450_avc1/playlist.m3u8
 #EXTINF:-1 group-title="Общие" tvg-id="rentv", Рен ТВ
