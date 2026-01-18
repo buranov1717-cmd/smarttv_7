@@ -1,15 +1,21 @@
 #EXTM3U url-tvg="https://iptvx.one/epg/epg.xml.gz"
 
 #EXTINF:-1 group-title="Кино" tvg-id="ntv-serial" tvg-logo="https://toplogos.ru/images/logo-ntv-serial.png", НТВ-Сермал
-https://s.domatv.net/-QvYTyOEVE42-4mp9veGRw/509/1768679114/index.m3u8
+https://server1.musical.uz/ntv_serial_web/tracks-v1a1/mono.m3u8?remote=89.28.106.136&token=ad0a1beb039961c85175f1ce174b9df6f6218905-ca960a683bce8e6d8bbae7b6512cf941-1768766769-1768755969
+#EXTINF:-1 group-title="Кино" tvg-id="ntv-serial" tvg-logo="https://toplogos.ru/images/logo-ntv-serial.png", НТВ-Сермал
+https://s.pokaz.me/bBBVk7--r0ofqdYbKD6Rxw/509/1768774209/index.m3u8
 #EXTINF:-1 tvg-id="ntv-xit" tvg-logo="https://iptvx.one/picons/ntv-xit.png" group-title="Кино и сериалы",НТВ Хит
 https://server1.musical.uz/ntvxit_web/tracks-v1a1/mono.m3u8?remote=89.28.106.136&token=78c2bba349e108a42ed9ba0dfa2cc9df8d1c3eb1-124fa926044dd5c449da85fe8d06a5f3-1768766574-1768755774
+#EXTINF:-1 tvg-id="ntv-xit" tvg-logo="https://iptvx.one/picons/ntv-xit.png" group-title="Кино и сериалы",НТВ Хит
+https://s.pokaz.me/oMKhakLMSztXtypiwLmm0Q/508/1768774162/index.m3u8
 #EXTINF:-1 group-title="KINO",Дом Кино
 https://minsk-cache05i.voka.tv/live/5105-req_offset_28000000-req_window_0-3k_v5.m3u8
 #EXTINF:-1 group-title="Кино", Дом кино
 https://minsk-cache06i.voka.tv/live/5105-req_offset_28000000-req_window_0-3k_v5.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="dom kino premium" tvg-logo="https://ramnet.ru/tv/logo/000002943.png", Дом Кино Премиум
-https://server1.musical.uz/dom-kino-premium_web/tracks-v1a1/mono.m3u8?remote=89.28.106.136&token=b17f32061c629d3241b4ff1e2c0acd339c129eb1-8388be14eb239d034a954077edd5573c-1768608019-1768597219
+https://server1.musical.uz/dom-kino-premium_web/tracks-v1a1/mono.m3u8?remote=89.28.106.136&token=753a136f32770d9391aaf17c85195a9440ec3bbc-48624ce9351b7b7740b49555b5c46d6e-1768766806-1768756006
+#EXTINF:-1 group-title="Кино" tvg-id="dom kino premium" tvg-logo="https://ramnet.ru/tv/logo/000002943.png", Дом Кино Премиум
+https://s.pokaz.me/uFQCraxL8kmc0VgIjFpRgw/187/1768774363/index.m3u8
 #EXTINF:-1 group-title="Общие" tvg-id="pervy" tvg-logo="https://www.cableman.ru/sites/default/files/pervyy_kanal.png", Первый канал
 http://194.8.128.38:8080/ort/playlist.m3u8
 #EXTINF:-1 group-title="Общие" tvg-id="pervy", Первый канал
