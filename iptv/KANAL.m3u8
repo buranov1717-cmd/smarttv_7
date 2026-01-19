@@ -51,6 +51,8 @@ http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
 http://user91229.clients-cdnnow.ru/hls/user91229_1.m3u8
 #EXTINF:-1 group-title="Кино", Русский детектив
 https://flussonic.salomtv.uz/russkiy_detektiv/video.m3u8
+#EXTINF:-1 group-title="Кино", Русский детектив
+http://31.148.48.15/Russkiy_Detektiv/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="Кино" tvg-logo="https://the-geek.ru/wp-content/uploads/2025/04/tv1000.jpg", ВИЖУ TV1000 HD
 http://vod.splay.uz/live_splay/original/TV1000/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="russkai-komedia" tvg-logo="https://www.cableman.ru/sites/default/files/komediya.jpg", Русская комедия
