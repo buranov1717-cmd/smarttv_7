@@ -1,13 +1,9 @@
 #EXTM3U url-tvg="https://iptvx.one/epg/epg.xml.gz"
 
 #EXTINF:-1 group-title="Кино" tvg-id="ntv-serial" tvg-logo="https://toplogos.ru/images/logo-ntv-serial.png", НТВ-Сермал
-https://s.pokaz.me/Cn0ofYL9iqbOUcXk0rMQfQ/509/1768787505/index.m3u8
-#EXTINF:-1 group-title="Кино" tvg-id="ntv-serial" tvg-logo="https://toplogos.ru/images/logo-ntv-serial.png", НТВ-Сермал
-https://s.pokaz.me/bBBVk7--r0ofqdYbKD6Rxw/509/1768774209/index.m3u8
+https://s.pokaz.me/eSu1rA544WpqSVnXGW02Lg/509/1768828806/index.m3u8
 #EXTINF:-1 tvg-id="ntv-xit" tvg-logo="https://iptvx.one/picons/ntv-xit.png" group-title="Кино и сериалы",НТВ Хит
-https://s.pokaz.me/NyGNSZd45iLqcqKNO7-RUA/508/1768787344/index.m3u8
-#EXTINF:-1 tvg-id="ntv-xit" tvg-logo="https://iptvx.one/picons/ntv-xit.png" group-title="Кино и сериалы",НТВ Хит
-https://s.pokaz.me/oMKhakLMSztXtypiwLmm0Q/508/1768774162/index.m3u8
+https://s.pokaz.me/KxDeVc9z-NDvjbZoJh4v9A/508/1768828850/index.m3u8
 #EXTINF:-1 group-title="KINO",Дом Кино
 https://minsk-cache05i.voka.tv/live/5105-req_offset_28000000-req_window_0-3k_v5.m3u8
 #EXTINF:-1 group-title="Кино", Дом кино
