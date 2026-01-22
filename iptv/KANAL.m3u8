@@ -1,9 +1,9 @@
 #EXTM3U url-tvg="https://iptvx.one/epg/epg.xml.gz"
 
 #EXTINF:-1 group-title="Кино" tvg-id="ntv-serial" tvg-logo="https://toplogos.ru/images/logo-ntv-serial.png", НТВ-Сермал
-https://server.musical.uz/ntv_serial_web/tracks-v1a1/mono.m3u8?remote=89.28.106.136&token=9b8c61d69969e877f780337a5843621594e71ef8-4b9b2ea1ea0d99f8285e1e329398ce49-1769109439-1769098639
+https://server1.musical.uz/ntv_serial_web/tracks-v1a1/mono.m3u8?remote=89.28.106.136&token=9100d405bcc22eaae95506bf1a995f60f9f5c1f3-78af1c792f9d541a64b6bb63f325638a-1769120144-1769109344
 #EXTINF:-1 tvg-id="ntv-xit" tvg-logo="https://iptvx.one/picons/ntv-xit.png" group-title="Кино и сериалы",НТВ Хит
-https://server.musical.uz/ntvxit_web/tracks-v1a1/mono.m3u8?remote=89.28.106.136&token=ce80dcdee13971b450f8898ebf35862d81ad8290-23ae51ce726a99fac0e1f54d44905e4d-1769109401-1769098601
+https://server1.musical.uz/ntvxit_web/tracks-v1a1/mono.m3u8?remote=89.28.106.136&token=467d678eb3dcb72a5a4067fe177348ffdb31b905-7fcde6e48684f985523c2deabcf61484-1769120098-1769109298
 #EXTINF:-1 group-title="KINO",Дом Кино
 https://streaming.goodstream.icu/live/44-req_offset_28000000-req_window_0-1k_v5.m3u8
 #EXTINF:-1 group-title="Кино", Дом кино
