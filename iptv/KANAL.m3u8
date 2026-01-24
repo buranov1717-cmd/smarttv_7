@@ -3,7 +3,7 @@
 #EXTINF:-1 group-title="Кино" tvg-id="ntv-serial" tvg-logo="https://toplogos.ru/images/logo-ntv-serial.png", НТВ-Сермал
 https://server1.musical.uz/ntv_serial_web/tracks-v1a1/mono.m3u8?remote=89.28.106.136&token=c2c515d5fb4331a119400d64044cd6c701f9e47c-09cbdbe519049e89e0851f3a4a55df39-1769189388-1769178588
 #EXTINF:-1 tvg-id="ntv-xit" tvg-logo="https://iptvx.one/picons/ntv-xit.png" group-title="Кино и сериалы",НТВ Хит
-https://server1.musical.uz/ntvxit_web/tracks-v1a1/mono.m3u8?remote=89.28.106.136&token=f09e259100ee9f215fda95d19a6544209ed27cc0-1ca4d6d5616e752ef53fb5366be9dcf9-1769189336-1769178536
+https://s.ontivi.net/6oexmOiML57q-9Wm-OFKoA/508/1769286974/index.m3u8
 #EXTINF:-1 group-title="KINO",Дом Кино
 https://streaming.goodstream.icu/live/44-req_offset_28000000-req_window_0-1k_v5.m3u8
 #EXTINF:-1 group-title="Кино", Дом кино
