@@ -8,10 +8,8 @@ https://server1.musical.uz/ntvxit_web/tracks-v1a1/mono.m3u8?remote=89.28.106.136
 https://streaming.goodstream.icu/live/44-req_offset_28000000-req_window_0-1k_v5.m3u8
 #EXTINF:-1 group-title="Кино", Дом кино
 https://streaming.goodstream.icu/live/44-req_offset_28000000-req_window_0-1k_v5.m3u8
-#EXTINF:-1 group-title="Кино", Дом кино
-https://s.xittv.net/Em06-h7vsqKqzAK7LPvsJw/186/1769440802/index.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="dom kino premium" tvg-logo="https://ramnet.ru/tv/logo/000002943.png", Дом Кино Премиум
-https://s.xittv.net/YGb2KM7vLJhyy4Wz4uyajQ/187/1769440465/index.m3u8
+http://api.peers.tv/timeshift/dom_kino_premium/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NjkzNzE0MzcsImlhdCI6MTc2OTI4NTAzNywiY2lkIjo2LCJ1aWQiOjk5NDA5NTQwOSwicmVnIjpmYWxzZSwiaXAiOjM1ODU1NTI1MzksImFkdWx0IjpmYWxzZX0.aw-SMLv4DIjdQfys3QFRQ4lw88adQz2Jll0VJausa7U&offset=10
 #EXTINF:-1 group-title="Кино" tvg-id="zolotaa kolekcia" tvg-logo="https://ramnet.ru/tv/logo/000006365.png", Золотая коллекция
 https://s.xittv.net/4VOh2SK9G09Hwxr2AlY-2g/235/1769440641/index.m3u8
 #EXTINF:-1 group-title="Общие" tvg-id="pervy" tvg-logo="https://www.cableman.ru/sites/default/files/pervyy_kanal.png", Первый канал
