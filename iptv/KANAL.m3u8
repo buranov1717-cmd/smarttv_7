@@ -8,6 +8,8 @@ https://server1.musical.uz/ntvxit_web/tracks-v1a1/mono.m3u8?remote=89.28.106.136
 https://streaming.goodstream.icu/live/44-req_offset_28000000-req_window_0-1k_v5.m3u8
 #EXTINF:-1 group-title="Кино", Дом кино
 https://streaming.goodstream.icu/live/44-req_offset_28000000-req_window_0-1k_v5.m3u8
+#EXTINF:-1 group-title="Кино", Дом кино
+https://tv.tvcdnpotok.com/0TcyYvFPqdKOt6DZnlP8MQ/186/1769474442/index.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="dom kino premium" tvg-logo="https://ramnet.ru/tv/logo/000002943.png", Дом Кино Премиум
 http://api.peers.tv/timeshift/dom_kino_premium/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3Njk0NTcxOTYsImlhdCI6MTc2OTM3MDc5NiwiY2lkIjo2LCJ1aWQiOjk5NDU4MTU3NSwicmVnIjpmYWxzZSwiaXAiOjM1ODU1NTI1MzksImFkdWx0IjpmYWxzZX0.eaeWMs-ZcRE0_RmPcIkxoCEuhJK1xLaeeH4a1tZQXNs&offset=10
 #EXTINF:-1 group-title="Кино" tvg-id="zolotaa kolekcia" tvg-logo="https://ramnet.ru/tv/logo/000006365.png", Золотая коллекция
