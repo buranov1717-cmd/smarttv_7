@@ -14,6 +14,8 @@ https://s.xittv.net/Em06-h7vsqKqzAK7LPvsJw/186/1769440802/index.m3u8
 https://s.xittv.net/YGb2KM7vLJhyy4Wz4uyajQ/187/1769440465/index.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="zolotaa kolekcia" tvg-logo="https://ramnet.ru/tv/logo/000006365.png", Золотая коллекция
 https://s.xittv.net/4VOh2SK9G09Hwxr2AlY-2g/235/1769440641/index.m3u8
+
+http://77.110.113.138:8081/iptv/rodnoe-kino-channel/l_6766_87252690_361.ts?nimblesessionid=27239&wmsAuthSign=c2VydmVyX3RpbWU9MS8yNi8yMDI2IDEwOjIxOjQxIEFNJmhhc2hfdmFsdWU9aktsVC9hbHBmY0tZSlBraDEvd08xQT09JnZhbGlkbWludXRlcz0xMDA=
 #EXTINF:-1 group-title="Общие" tvg-id="pervy" tvg-logo="https://www.cableman.ru/sites/default/files/pervyy_kanal.png", Первый канал
 http://194.8.128.38:8080/ort/playlist.m3u8
 #EXTINF:-1 group-title="Общие" tvg-id="pervy", Первый канал
