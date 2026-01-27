@@ -10,7 +10,7 @@ https://streaming.goodstream.icu/live/44-req_offset_28000000-req_window_0-1k_v5.
 https://streaming.goodstream.icu/live/44-req_offset_28000000-req_window_0-1k_v5.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="dom kino premium" tvg-logo="https://ramnet.ru/tv/logo/000002943.png", Дом Кино Премиум
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0
-https://tv.tvcdnpotok.com/VORCML1TWQcaqaPXIcalcw/187/1769519651/index.m3u8
+http://77.110.113.92:8081/iptv/dom-kino-prem/chunks.m3u8?nimblesessionid=73324&wmsAuthSign=c2VydmVyX3RpbWU9MS8yNy8yMDI2IDE6NDc6MDUgUE0maGFzaF92YWx1ZT1yQ0hHMDhkWUxmM200RVNqdGw5Y05RPT0mdmFsaWRtaW51dGVzPTEwMA==
 #EXTINF:-1 group-title="Кино" tvg-id="zolotaa kolekcia" tvg-logo="https://ramnet.ru/tv/logo/000006365.png", Золотая коллекция
 http://77.110.113.138:8081/iptv/rodnoe-kino-channel/chunks.m3u8?nimblesessionid=31937&wmsAuthSign=c2VydmVyX3RpbWU9MS8yNy8yMDI2IDE6Mzk6MDMgUE0maGFzaF92YWx1ZT1YVUc2ZFU1ODI4T0U2N01UMUtXbURnPT0mdmFsaWRtaW51dGVzPTEwMA==
 #EXTINF:-1 group-title="Общие" tvg-id="pervy" tvg-logo="https://www.cableman.ru/sites/default/files/pervyy_kanal.png", Первый канал
