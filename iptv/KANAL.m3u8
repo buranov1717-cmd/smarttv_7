@@ -1,4 +1,3 @@
-#EXTM3U url-tvg="https://iptvx.one/epg/epg.xml.gz"
 #EXTM3U url-tvg="https://iptvx.one/EPG"
 
 #EXTINF:-1 group-title="Кино" tvg-id="ntv-serial" tvg-logo="https://toplogos.ru/images/logo-ntv-serial.png", НТВ-Сермал
