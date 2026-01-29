@@ -16,6 +16,8 @@ http://84.54.128.52:9090/play/a001/index.m3u8
 https://tv.tvcdnpotok.com/f5WaA_o5PqWTjKfEpArZPg/510/1769714106/index.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="zolotaa kolekcia" tvg-logo="https://ramnet.ru/tv/logo/000006365.png", Золотая коллекция
 https://tv.tvcdnpotok.com/eLzQjnqGNiUyHeH4qnTaYg/235/1769713662/index.m3u8
+#EXTINF:-1 group-title="Кино" tvg-id="zolotaa kolekcia" tvg-logo="https://ramnet.ru/tv/logo/000006365.png", Золотая коллекция
+http://178.134.1.158:8081/mosfilm/index.m3u8
 #EXTINF:-1 group-title="Общие" tvg-id="pervy" tvg-logo="https://www.cableman.ru/sites/default/files/pervyy_kanal.png", Первый канал
 http://194.8.128.38:8080/ort/playlist.m3u8
 #EXTINF:-1 group-title="Общие" tvg-id="pervy", Первый канал
