@@ -10,8 +10,6 @@ https://streaming.goodstream.icu/live/44-req_offset_28000000-req_window_0-1k_v5.
 https://streaming.goodstream.icu/live/44-req_offset_28000000-req_window_0-1k_v5.m3u8
 #EXTINF:-1 group-title="Кино", Дом кино
 http://176.96.241.40/DomKino/index.m3u8
-#EXTINF:-1 group-title="Кино", Русский роман
-http://37.193.89.200:81/udp/239.1.3.17:1234
 #EXTINF:-1 group-title="Кино",Родное кино
 http://84.54.128.52:9090/play/a009/index.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="dom kino premium" tvg-logo="https://ramnet.ru/tv/logo/000002943.png", Дом Кино Премиум
