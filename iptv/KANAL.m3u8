@@ -15,7 +15,7 @@ http://77.110.113.92:8081/iptv/dom-kino-prem/chunks.m3u8?nimblesessionid=84875&w
 #EXTINF:-1 group-title="Кино" tvg-id="russkai-komedia" tvg-logo="https://www.cableman.ru/sites/default/files/komediya.jpg", Русская комедия
 https://tvcdnpotok.com/bRPh7ulxsrrzkpyueCMk0g/510/1769657013/index.m3u88
 #EXTINF:-1 group-title="Кино" tvg-id="zolotaa kolekcia" tvg-logo="https://ramnet.ru/tv/logo/000006365.png", Золотая коллекция
-https://tv.tvcdnpotok.com/7OEU6kJkK0DGLTp7fC3M2g/235/1769634201/index.m3u8
+https://tv.tvcdnpotok.com/eLzQjnqGNiUyHeH4qnTaYg/235/1769713662/index.m3u8
 #EXTINF:-1 group-title="Общие" tvg-id="pervy" tvg-logo="https://www.cableman.ru/sites/default/files/pervyy_kanal.png", Первый канал
 http://194.8.128.38:8080/ort/playlist.m3u8
 #EXTINF:-1 group-title="Общие" tvg-id="pervy", Первый канал
