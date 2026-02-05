@@ -1,7 +1,7 @@
 #EXTM3U url-tvg="https://iptvx.one/EPG"
 
 #EXTINF:-1 tvg-id="ntv-xit" tvg-logo="https://iptvx.one/picons/ntv-xit.png" group-title="Кино и сериалы",НТВ-Хит
-https://server.musical.uz/ntvxit_web/tracks-v1a1/mono.m3u8?remote=89.28.106.136&token=6ea9bad1a90781032f850b1934c1ca6b13fc1817-920eec945a9226037e34f1f18270c7fe-1770225406-1770214606
+https://server1.musical.uz/ntvxit_web/tracks-v1a1/mono.m3u8?remote=89.28.106.136&token=2c16e52b7453e99e8a3f964293ee3615ce1efca4-6b12789aa1c3ce7a1b13a8d54664cb3e-1770309652-1770298852
 #EXTINF:-1 group-title="Кино" tvg-id="ntv-serial" tvg-logo="https://toplogos.ru/images/logo-ntv-serial.png", НТВ-Сериал
 https://server1.musical.uz/ntv_serial_web/tracks-v1a1/mono.m3u8?remote=89.28.106.136&token=53004575b0b4488eb4e6a5f73b195f166146bb3e-09255a8cdbc8babce6b3358f9eec90c0-1770225453-1770214653
 #EXTINF:-1 group-title="KINO",Дом Кино
