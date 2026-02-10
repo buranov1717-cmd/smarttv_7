@@ -24,6 +24,8 @@ http://178.134.1.158:8081/mosfilm/index.m3u8
 http://194.8.128.38:8080/ort/playlist.m3u8
 #EXTINF:-1 group-title="Общие" tvg-id="pervy", Первый канал
 http://a3285275077-zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD/video_800x450_avc1/playlist.m3u8?useseq=t&version=2
+#EXTINF:-1 group-title="Общие" tvg-id="pervy", Первый канал
+https://edge3.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash1-12hFrag-hd-audio-hires-20251203T155721_001192978.mp4
 #EXTINF:-1 group-title="Кино" tvg-id="pobeda" tvg-logo="https://images.iptv.rt.ru/images/ch4dibbmhk079s3jpetg.png", Победа
 https://pkvc-hls7.cdnvideo.ru/pkvc/pobeda/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="pobeda" tvg-logo="https://images.iptv.rt.ru/images/ch4dibbmhk079s3jpetg.png", Победа
