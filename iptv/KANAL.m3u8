@@ -58,8 +58,6 @@ http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
 #EXTINF:-1 group-title="Общие" tvg-id="tnv-tatarstan" tvg-logo="https://www.cableman.ru/sites/default/files/tnv.png", ТНВ ТАТАРСТАН
 http://user91229.clients-cdnnow.ru/hls/user91229_1.m3u8
 #EXTINF:-1 group-title="Кино", Русский детектив
-http://213.176.19.162:8081/iptv/russkiy-detektive-channel/chunks.m3u8
-#EXTINF:-1 group-title="Кино", Русский детектив
 https://s.xittv.net/BnFX7v3xF-VzOCLydwppLQ/136/1770841769/index.m3u8
 #EXTINF:-1 group-title="Кино", Русский детектив
 http://31.148.48.15/Russkiy_Detektiv/tracks-v1a1/mono.ts.m3u8
