@@ -58,8 +58,6 @@ http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
 #EXTINF:-1 group-title="Общие" tvg-id="tnv-tatarstan" tvg-logo="https://www.cableman.ru/sites/default/files/tnv.png", ТНВ ТАТАРСТАН
 http://user91229.clients-cdnnow.ru/hls/user91229_1.m3u8
 #EXTINF:-1 group-title="Кино", Русский детектив
-https://flussonic.salomtv.uz/russkiy_detektiv/video.m3u8
-#EXTINF:-1 group-title="Кино", Русский детектив
 http://31.148.48.15/Russkiy_Detektiv/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="Кино" tvg-logo="https://the-geek.ru/wp-content/uploads/2025/04/tv1000.jpg", viju TV1000
 http://188.225.31.197/bpk-tv/000003747/tve/index.m3u8
