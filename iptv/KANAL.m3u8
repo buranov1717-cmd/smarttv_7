@@ -11,7 +11,7 @@ https://streaming.goodstream.icu/live/44-req_offset_28000000-req_window_0-1k_v5.
 #EXTINF:-1 group-title="Кино", Дом кино
 http://176.96.241.40/DomKino/index.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="dom kino premium" tvg-logo="https://ramnet.ru/tv/logo/000002943.png", Дом Кино Премиум
-https://s.xittv.net/PsueWJTbH_fCrwKlKTjTTA/187/1770842044/index.m3u8
+https://secure-ridge-22999-537c838d4a8a.herokuapp.com/https://edge04-alm.beetv.kz:443/bpk-token/3an@1gzjl03vfhnjhij0gsjoustwudwjo0so1eomlhda/bpk-tv/000002943/tve/000002943-audio_82882_rus=82400-video=1297600.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="dom kino premium" tvg-logo="https://ramnet.ru/tv/logo/000002943.png", Дом Кино Премиум HD
 http://109.75.59.241:8017/Domkino/index.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="russkai-komedia" tvg-logo="https://www.cableman.ru/sites/default/files/komediya.jpg", Русская комедия
