@@ -20,8 +20,6 @@ https://tv.tvcdnpotok.com/q4aPlqN3QOgruAyfkXeaUQ/510/1770934092/index.m3u8
 https://tv.tvcdnpotok.com/DFtGVQVPWA8vw1s_AQvXXg/235/1770934028/index.m3u8
 #EXTINF:-1 group-title="Кино" audio-track="rus", Мосфильм. Золотая коллекция
 http://178.134.1.158:8081/mosfilm/index.m3u8
-#EXTINF:-1 group-title="Кино" audio-track="rus", Мосфильм. Золотая коллекция
-https://vsd120.okcdn.ru/dash/stream_10627128625782/stream.manifest/sig/AbtSIvYDyhI/expires/1771003632968/srcIp/89.28.106.136/urls/185.226.55.91/clientType/0/srcAg/GECKO/mid/11299353140854/stream-medium.jidx?_rnd=439079516
 #EXTINF:-1 group-title="Общие" tvg-id="pervy" tvg-logo="https://www.cableman.ru/sites/default/files/pervyy_kanal.png", Первый канал
 http://194.8.128.38:8080/ort/playlist.m3u8
 #EXTINF:-1 group-title="Общие" tvg-id="pervy", Первый канал
