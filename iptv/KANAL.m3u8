@@ -13,7 +13,7 @@ http://176.96.241.40/DomKino/index.m3u8
 #EXTINF:-1 group-title="Кино", Дом кино
 https://stream8.cinerama.uz/1054/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="dom kino premium" tvg-logo="https://ramnet.ru/tv/logo/000002943.png", Дом Кино Премиум
-https://edge05-alm.beetv.kz:443/bpk-token/3an@munpwwxex3z04kryhlnbr14mnhdn1tv3muce4wda/bpk-tv/000002943/tve/000002943-audio_82882_rus=82400-video=1297600.m3u8
+https://edge05-alm.beetv.kz:443/bpk-token/3an@a3xsvmzu4kwsfebu3laydpflzci5vmfla3yz3mba/bpk-tv/000002943/tve/000002943-audio_82882_rus=82400-video=1297600.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="dom kino premium" tvg-logo="https://ramnet.ru/tv/logo/000002943.png", Дом Кино Премиум HD
 http://109.75.59.241:8017/Domkino/index.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="russkai-komedia" tvg-logo="https://www.cableman.ru/sites/default/files/komediya.jpg", Русская комедия
