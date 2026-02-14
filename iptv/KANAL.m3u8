@@ -19,7 +19,7 @@ http://109.75.59.241:8017/Domkino/index.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="russkai-komedia" tvg-logo="https://www.cableman.ru/sites/default/files/komediya.jpg", Русская комедия
 https://tv.tvcdnpotok.com/q4aPlqN3QOgruAyfkXeaUQ/510/1770934092/index.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="zolotaa kolekcia" tvg-logo="https://ramnet.ru/tv/logo/000006365.png", Мосфильм. Золотая коллекция
-https://urls/185.226.52.65/clientType/0/srcAg/GECKO/mid/11299353140854/10627128625782_high/index.m3u8
+https://185.226.52.65/clientType/0/srcAg/GECKO/mid/11299353140854/10627128625782_high/index.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="zolotaa kolekcia" tvg-logo="https://ramnet.ru/tv/logo/000006365.png", Мосфильм. Золотая коллекция
 https://vsd274.okcdn.ru/hls/10627128625782.m3u8
 #EXTINF:-1 group-title="Кино" audio-track="rus", Мосфильм. Золотая коллекция
