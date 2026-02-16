@@ -22,8 +22,6 @@ http://api.peers.tv/timeshift/komediya/16/playlist.m3u8?token=eyJhbGciOiJIUzI1Ni
 http://api.peers.tv/timeshift/mosfilm_zolotaya_kollektsiya_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NzEyNTgyNDAsImlhdCI6MTc3MTE3MTg0MCwiY2lkIjo2LCJ1aWQiOjEwMDYyMjM5MTgsInJlZyI6ZmFsc2UsImlwIjozMjYwNTA5MTY3LCJhZHVsdCI6ZmFsc2V9.OuQKOyJuJJd50aS96qiwuLF6yZl4pHjwLnyH6i8_KmU&offset=10
 #EXTINF:-1 group-title="Кино" audio-track="rus", Мосфильм. Золотая коллекция
 http://178.134.1.158:8081/mosfilm/index.m3u8
-#EXTINF:-1 group-title="Кино" tvg-id="sovetskoekino",Советское кино
-http://api.peers.tv/timeshift/sovetskoekino/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NzEyMjgzNTcsImlhdCI6MTc3MTE0MTk1NywiY2lkIjo2LCJ1aWQiOjEwMDU5OTY0MjUsInJlZyI6ZmFsc2UsImlwIjozMjYwNDk2MzcwLCJhZHVsdCI6ZmFsc2V9.dNRIXTmmuC5n5idWAjNQYkTxBSivz9Nm63vOiT-Enlg&offset=10
 #EXTINF:-1 group-title="Общие" tvg-id="pervy" tvg-logo="https://www.cableman.ru/sites/default/files/pervyy_kanal.png", Первый канал
 http://194.8.128.38:8080/ort/playlist.m3u8
 #EXTINF:-1 group-title="Общие" tvg-id="pervy", Первый канал
