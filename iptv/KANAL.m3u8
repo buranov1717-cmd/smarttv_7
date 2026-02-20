@@ -52,8 +52,6 @@ https://edge02r.mediavitrina.ru/dashp-livef7/5tv/tracks-v3/seg-1758550439-435677
 #EXTINF:-1 group-title="Общие" tvg-id="zvezda", Звезда
 http://tvzvezda.bonus-tv.ru/cdn/tvzvezda/playlist_sdhigh.m3u8
 #EXTINF:-1 group-title="Общие" tvg-id="mir", Мир
-http://dmi3y-tv6.ru/hls/DVB-T2/CH_MIR.m3u8
-#EXTINF:-1 group-title="Общие" tvg-id="mir", Мир
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
 #EXTINF:-1 group-title="Общие" tvg-id="tnv-tatarstan" tvg-logo="https://www.cableman.ru/sites/default/files/tnv.png", ТНВ ТАТАРСТАН
 http://user91229.clients-cdnnow.ru/hls/user91229_1.m3u8
@@ -63,9 +61,6 @@ https://secure-ridge-22999-537c838d4a8a.herokuapp.com/cdn.lamro.tv/Nashdetektiv/
 http://31.148.48.15/Russkiy_Detektiv/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="Кино" tvg-logo="https://the-geek.ru/wp-content/uploads/2025/04/tv1000.jpg", viju TV1000
 http://188.225.31.197/bpk-tv/000003747/tve/index.m3u8
-#EXTINF:-1 tvg-id="5kanal-ru" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://iptvx.one/picons/5kanal-ru.png",Пятый канал
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-http://zabava-htlive.cdn.ngenix.net/hls/CH_5TV/variant.m3u8
 #EXTINF:-1 tvg-id="tv3-ru" tvg-logo="https://iptvx.one/picons/tv3-ru.png",ТВ3
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_TV3/variant.m3u8
