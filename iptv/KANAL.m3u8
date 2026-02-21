@@ -22,6 +22,8 @@ http://api.peers.tv/timeshift/komediya/16/playlist.m3u8?token=eyJhbGciOiJIUzI1Ni
 https://edge08-alm.beetv.kz/bpk-token/3an@ugpthgdm2n4y2djniktqu4gpmovz12rzuebd2fca/bpk-tv/000006365/tve/000006365-audio_82882_rus=82400-video=2137600.m3u8
 #EXTINF:-1 group-title="Кино" audio-track="rus", Мосфильм. Золотая коллекция
 http://178.134.1.158:8081/mosfilm/index.m3u8
+#EXTINF:-1 group-title="Кино" audio-track="rus", Мосфильм. Золотая коллекция
+https://vironika.ru/memfs/66015afb-4348-4e97-9a87-49f131a42c9f_output_0.m3u8
 #EXTINF:-1 group-title="Общие" tvg-id="pervy" tvg-logo="https://www.cableman.ru/sites/default/files/pervyy_kanal.png", Первый канал
 http://194.8.128.38:8080/ort/playlist.m3u8
 #EXTINF:-1 group-title="Общие" tvg-id="pervy" tvg-logo="https://www.cableman.ru/sites/default/files/pervyy_kanal.png", Первый канал
