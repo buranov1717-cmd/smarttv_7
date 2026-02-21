@@ -13,7 +13,7 @@ http://176.96.241.40/DomKino/index.m3u8
 #EXTINF:-1 group-title="Кино", Дом кино
 https://stream8.cinerama.uz/1054/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="dom kino premium" tvg-logo="https://ramnet.ru/tv/logo/000002943.png", Дом Кино Премиум
-http://api.peers.tv/timeshift/dom_kino_premium/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NzE3NDY5MjcsImlhdCI6MTc3MTY2MDUyNywiY2lkIjo2LCJ1aWQiOjEwMDg5Nzk3NjksInJlZyI6ZmFsc2UsImlwIjozMjYwNTA5MTY3LCJhZHVsdCI6ZmFsc2V9.odOTyOb4yQBITQoO3wAN_TEkMKYoYFarBCV2mL8BAuc&offset=10
+https://secure-ridge-22999-537c838d4a8a.herokuapp.com/https://edge05-alm.beetv.kz:443/bpk-token/3an@2rpx12o143ot1kdzieoa05oxzfp213gx2ra2t2ca/bpk-tv/000002943/tve/000002943-audio_82882_rus=82400-video=1297600.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="dom kino premium" tvg-logo="https://ramnet.ru/tv/logo/000002943.png", Дом Кино Премиум HD
 http://109.75.59.241:8017/Domkino/index.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="russkai-komedia" tvg-logo="https://www.cableman.ru/sites/default/files/komediya.jpg", Русская комедия
