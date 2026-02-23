@@ -24,8 +24,6 @@ http://178.134.1.158:8081/mosfilm/index.m3u8
 https://vironika.ru/memfs/66015afb-4348-4e97-9a87-49f131a42c9f_output_0.m3u8
 #EXTINF:-1 group-title="Кино" audio-track="rus", Мосфильм. Золотая коллекция
 https://minsk-cache07t.voka.tv/live/1124-req_offset_28000000-req_window_0-5k_v5.m3u8
-#EXTINF:-1 group-title="Кино" audio-track="rus", Мосфильм. Золотая коллекция
-http://api.peers.tv/timeshift/mosfilm_zolotaya_kollektsiya_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NzE4MzMyNDgsImlhdCI6MTc3MTc0Njg0OCwiY2lkIjo2LCJ1aWQiOjEwMDk1MzEyNDEsInJlZyI6ZmFsc2UsImlwIjozMjYwNTA5MTY3LCJhZHVsdCI6ZmFsc2V9.-viJnD6Ki0O_JGqZvsHm-K7jdP7MclHyFwbqhPbwfiA&offset=10
 #EXTINF:-1 group-title="Общие" tvg-id="pervy" tvg-logo="https://www.cableman.ru/sites/default/files/pervyy_kanal.png", Первый канал
 http://194.8.128.38:8080/ort/playlist.m3u8
 #EXTINF:-1 group-title="Общие" tvg-id="pervy" tvg-logo="https://www.cableman.ru/sites/default/files/pervyy_kanal.png", Первый канал
