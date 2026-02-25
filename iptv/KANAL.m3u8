@@ -51,7 +51,8 @@ http://158.101.222.193:88/georgia_play.php?id=tv1000rukino
 #EXTINF:-1 group-title="Кино" tvg-id="russkoe" tvg-logo="https://tele2.server-img.lfstrm.tv/images/channel_logos/logo_639b504071487e3f7284a0c8.png", viju TV1000 Русское
 http://api.peers.tv/timeshift/tv_1000_rus_kino/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NzIwOTUwODksImlhdCI6MTc3MjAwODY4OSwiY2lkIjo2LCJ1aWQiOjEwMTEwNjM5NTgsInJlZyI6ZmFsc2UsImlwIjozMjYwNTA5MTY3LCJhZHVsdCI6ZmFsc2V9.ABi_YZ9sscVWdF-Lrji86XDposSyAhj-3PHiFcw848E&offset=10
 #EXTINF:-1 group-title="Общие" tvg-id="5kanal-ru", Пятый канал
-https://edge02r.mediavitrina.ru/dashp-livef7/5tv/tracks-v3/seg-1758550439-4356778.m4v
+https://s196.glaz.tv:8082/liveg/pyatyi.stream/chunks.m3u8?nimblesessionid=169074305&wmsAuthSign=c2VydmVyX3RpbWU9Mi8yNS8yMDI2IDI6MjE6MjAgUE0maGFzaF92YWx1ZT05dVNlcmpvZjdGUDlQLzVUYktxRHRBPT0mdmFsaWRtaW51dGVzPTIwMA==
+#EXTINF:-1 group-title="Общие" tvg-id="5kanal-ru", Пятый канал
 #EXTINF:-1 group-title="Общие" tvg-id="zvezda", Звезда
 http://tvzvezda.bonus-tv.ru/cdn/tvzvezda/playlist_sdhigh.m3u8
 #EXTINF:-1 group-title="Общие" tvg-id="mir", Мир
