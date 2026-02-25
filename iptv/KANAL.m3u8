@@ -53,6 +53,7 @@ http://api.peers.tv/timeshift/tv_1000_rus_kino/16/playlist.m3u8?token=eyJhbGciOi
 #EXTINF:-1 group-title="Общие" tvg-id="5kanal-ru", Пятый канал
 https://s196.glaz.tv:8082/liveg/pyatyi.stream/chunks.m3u8?nimblesessionid=169074305&wmsAuthSign=c2VydmVyX3RpbWU9Mi8yNS8yMDI2IDI6MjE6MjAgUE0maGFzaF92YWx1ZT05dVNlcmpvZjdGUDlQLzVUYktxRHRBPT0mdmFsaWRtaW51dGVzPTIwMA==
 #EXTINF:-1 group-title="Общие" tvg-id="5kanal-ru", Пятый канал
+https://streaming.televizor-24-tochka.ru/live/8-req_offset_28000000-req_window_0-1k_v5.m3u8
 #EXTINF:-1 group-title="Общие" tvg-id="zvezda", Звезда
 http://tvzvezda.bonus-tv.ru/cdn/tvzvezda/playlist_sdhigh.m3u8
 #EXTINF:-1 group-title="Общие" tvg-id="mir", Мир
