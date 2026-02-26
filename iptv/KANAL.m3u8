@@ -19,7 +19,7 @@ http://api.peers.tv/timeshift/dom_kino_premium/16/playlist.m3u8?token=eyJhbGciOi
 #EXTINF:-1 group-title="Кино" tvg-id="dom kino premium" tvg-logo="https://ramnet.ru/tv/logo/000002943.png", Дом Кино Премиум HD
 http://api.peers.tv/timeshift/dom_kino_premium/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NzIwOTUwODksImlhdCI6MTc3MjAwODY4OSwiY2lkIjo2LCJ1aWQiOjEwMTEwNjM5NTgsInJlZyI6ZmFsc2UsImlwIjozMjYwNTA5MTY3LCJhZHVsdCI6ZmFsc2V9.ABi_YZ9sscVWdF-Lrji86XDposSyAhj-3PHiFcw848E&offset=10
 #EXTINF:-1 group-title="Кино" tvg-id="russkai-komedia" tvg-logo="https://www.cableman.ru/sites/default/files/komediya.jpg", Русская комедия
-http://api.peers.tv/timeshift/komediya/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NzIwOTUwODksImlhdCI6MTc3MjAwODY4OSwiY2lkIjo2LCJ1aWQiOjEwMTEwNjM5NTgsInJlZyI6ZmFsc2UsImlwIjozMjYwNTA5MTY3LCJhZHVsdCI6ZmFsc2V9.ABi_YZ9sscVWdF-Lrji86XDposSyAhj-3PHiFcw848E&offset=10
+http://api.peers.tv/timeshift/komediya/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NzIxMzU3NTcsImlhdCI6MTc3MjA0OTM1NywiY2lkIjo2LCJ1aWQiOjEwMTEzNTc0MDIsInJlZyI6ZmFsc2UsImlwIjo2NDE1MjM0NjQsImFkdWx0IjpmYWxzZX0.UoZu4ZiTkyZRjIWsgBBOx2wkh1WXqb4hmPW7ZiY4qyY&offset=10
 #EXTINF:-1 group-title="Кино" audio-track="rus", Мосфильм. Золотая коллекция
 http://178.134.1.158:8081/mosfilm/index.m3u8
 #EXTINF:-1 group-title="Кино" audio-track="rus", Мосфильм. Золотая коллекция
