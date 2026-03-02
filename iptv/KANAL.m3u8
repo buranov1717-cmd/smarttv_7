@@ -22,6 +22,8 @@ https://stream8.cinerama.uz/1054/tracks-v1a1/mono.m3u8
 http://api.peers.tv/timeshift/dom_kino_premium/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NzI0ODEwMDYsImlhdCI6MTc3MjM5NDYwNiwiY2lkIjo2LCJ1aWQiOjEwMTM0MjQxNjksInJlZyI6ZmFsc2UsImlwIjozNTg1NTUzODU3LCJhZHVsdCI6ZmFsc2V9.IzSKWIxXzAl_mBLIP2cuuXEgX8HlnBubA9KM2jzpveg&offset=10
 #EXTINF:-1 group-title="Кино" tvg-id="dom kino premium" tvg-logo="https://ramnet.ru/tv/logo/000002943.png", Дом Кино Премиум HD
 https://edge04-alm.beetv.kz/bpk-token/3an@c3yq5fcbdd4xyulfajj2drb5lmihg2prc5pv5yaa/bpk-tv/000002943/tve/000002943-audio_82882_rus=82400-video=5287600.m3u8
+#EXTINF:-1 group-title="Кино" tvg-id="dom kino premium" tvg-logo="https://ramnet.ru/tv/logo/000002943.png", Дом Кино Премиум HD
+https://server.musical.uz/dom-kino-premium_web/tracks-v1a1/mono.m3u8?remote=89.28.106.136&token=158aa18ec24342f4a7caec95cff345323c0ee7eb-6450a1741d32d6071a66d871a42a9f19-1772470575-1772459775
 #EXTINF:-1 group-title="Кино" tvg-id="russkai-komedia" tvg-logo="https://www.cableman.ru/sites/default/files/komediya.jpg", Русская комедия
 http://api.peers.tv/timeshift/komediya/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NzI0ODEwMDYsImlhdCI6MTc3MjM5NDYwNiwiY2lkIjo2LCJ1aWQiOjEwMTM0MjQxNjksInJlZyI6ZmFsc2UsImlwIjozNTg1NTUzODU3LCJhZHVsdCI6ZmFsc2V9.IzSKWIxXzAl_mBLIP2cuuXEgX8HlnBubA9KM2jzpveg&offset=10
 #EXTINF:-1 group-title="Кино" audio-track="rus", Мосфильм. Золотая коллекция
