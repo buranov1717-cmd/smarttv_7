@@ -59,7 +59,7 @@ http://194.158.222.36:6107
 #EXTINF:-1 group-title="Кино" tvg-id="russkoe" tvg-logo="https://tele2.server-img.lfstrm.tv/images/channel_logos/logo_639b504071487e3f7284a0c8.png", viju TV1000 Русское
 http://158.101.222.193:88/georgia_play.php?id=tv1000rukino
 #EXTINF:-1 group-title="Кино" tvg-id="russkoe" tvg-logo="https://tele2.server-img.lfstrm.tv/images/channel_logos/logo_639b504071487e3f7284a0c8.png", viju TV1000 Русское
-http://api.peers.tv/timeshift/tv_1000_rus_kino/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NzI0ODEwMDYsImlhdCI6MTc3MjM5NDYwNiwiY2lkIjo2LCJ1aWQiOjEwMTM0MjQxNjksInJlZyI6ZmFsc2UsImlwIjozNTg1NTUzODU3LCJhZHVsdCI6ZmFsc2V9.IzSKWIxXzAl_mBLIP2cuuXEgX8HlnBubA9KM2jzpveg&offset=10
+http://api.peers.tv/timeshift/tv_1000_rus_kino/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NzI2MTA5NjAsImlhdCI6MTc3MjUyNDU2MCwiY2lkIjo2LCJ1aWQiOjEwMTQxNDU4MTcsInJlZyI6ZmFsc2UsImlwIjo3NjQ4ODY3NDcsImFkdWx0IjpmYWxzZX0.mwMLDD1rRUMnjy74vltpqXNkcoDG1uPKBtaJowdyeyA&offset=10
 #EXTINF:-1 group-title="Общие" tvg-id="5kanal-ru", Пятый канал
 http://eb4b8dcf.kablakaka.ru/iptv/HBHPK9FK755LG3/15316/index.m3u8
 #EXTINF:-1 group-title="Общие" tvg-id="5kanal-ru", Пятый канал
