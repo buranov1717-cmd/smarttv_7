@@ -63,7 +63,7 @@ http://api.peers.tv/timeshift/tv_1000_rus_kino/16/playlist.m3u8?token=eyJhbGciOi
 #EXTINF:-1 group-title="Общие" tvg-id="5kanal-ru", Пятый канал
 https://s189.glaz.tv:8082/liveg/pyatyi.stream/l_2280931_43311941_6072.ts?nimblesessionid=451946669&wmsAuthSign=c2VydmVyX3RpbWU9My8zLzIwMjYgNDowMjozNSBQTSZoYXNoX3ZhbHVlPVI2NXBVbFl4RmlDSE5YQ1luOUFoMkE9PSZ2YWxpZG1pbnV0ZXM9MjAw
 #EXTINF:-1 group-title="Общие" tvg-id="5kanal-ru", Пятый канал
-http://eb4b8dcf.kablakaka.ru/iptv/HBHPK9FK755LG3/15316/index.m3u8
+https://s87.glaz.tv:8082/liveg/pyatyi.stream/chunks.m3u8?nimblesessionid=7808300&wmsAuthSign=c2VydmVyX3RpbWU9My8zLzIwMjYgNDowNDowNyBQTSZoYXNoX3ZhbHVlPUFBNFBQYytuRGJmTUZEZGxrUS94WXc9PSZ2YWxpZG1pbnV0ZXM9MjAw
 #EXTINF:-1 group-title="Общие" tvg-id="zvezda", Звезда
 http://tvzvezda.bonus-tv.ru/cdn/tvzvezda/playlist_sdhigh.m3u8
 #EXTINF:-1 group-title="Общие" tvg-id="mir", Мир
