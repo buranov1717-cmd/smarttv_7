@@ -19,7 +19,7 @@ http://176.96.241.40/DomKino/index.m3u8
 #EXTINF:-1 group-title="Кино", Дом кино
 https://stream8.cinerama.uz/1054/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="dom kino premium" tvg-logo="https://ramnet.ru/tv/logo/000002943.png", Дом Кино Премиум HD
-http://api.peers.tv/timeshift/dom_kino_premium/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NzI0ODEwMDYsImlhdCI6MTc3MjM5NDYwNiwiY2lkIjo2LCJ1aWQiOjEwMTM0MjQxNjksInJlZyI6ZmFsc2UsImlwIjozNTg1NTUzODU3LCJhZHVsdCI6ZmFsc2V9.IzSKWIxXzAl_mBLIP2cuuXEgX8HlnBubA9KM2jzpveg&offset=10
+http://eb4b8dcf.kablakaka.ru/iptv/HBHPK9FK755LG3/5082/index.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="dom kino premium" tvg-logo="https://ramnet.ru/tv/logo/000002943.png", Дом Кино Премиум HD
 https://edge04-alm.beetv.kz/bpk-token/3an@xhm3sbi4rvlgadxv01nxwy0fda3blxmaxf1ys2ca/bpk-tv/000002943/tve/000002943-audio_82882_rus=82400-video=5287600.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="dom kino premium" tvg-logo="https://ramnet.ru/tv/logo/000002943.png", Дом Кино Премиум HD
