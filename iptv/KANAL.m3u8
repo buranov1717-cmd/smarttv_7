@@ -4,6 +4,8 @@
 https://secure-ridge-22999-537c838d4a8a.herokuapp.com/iptv46.mcx-ix.ru:8077/ntv_hit/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="ntv-xit" tvg-logo="https://iptvx.one/picons/ntv-xit.png" group-title="Кино и сериалы",НТВ-Хит
 http://iptv46.mcx-ix.ru:8077/ntv_hit/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="ntv-xit" tvg-logo="https://iptvx.one/picons/ntv-xit.png" group-title="Кино и сериалы",НТВ-Хит
+https://server1.musical.uz/ntvxit_web/tracks-v1a1/mono.m3u8?remote=89.28.106.136&token=bd93cb02cad73095bee4320b2ab839a31f0299e8-8a5b40648a9d24ded748a78f9c31bcd2-1772818997-1772808197
 #EXTINF:-1 group-title="Кино" tvg-id="ntv-serial" tvg-logo="https://toplogos.ru/images/logo-ntv-serial.png", НТВ-Сериал
 https://cdn.ntv.ru/th_serial/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Общие" tvg-id="ntv-style" tvg-logo="https://cdn2-static.ntv.ru/home/news/20180314/ntv_style_sno.png", НТВ-Стиль
