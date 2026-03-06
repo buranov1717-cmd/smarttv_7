@@ -21,7 +21,7 @@ http://176.96.241.40/DomKino/index.m3u8
 #EXTINF:-1 group-title="Кино", Дом кино
 https://stream8.cinerama.uz/1054/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="dom kino premium" tvg-logo="https://ramnet.ru/tv/logo/000002943.png", Дом Кино Премиум HD
-http://api.peers.tv/timeshift/dom_kino_premium/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NzI2MTA5NjAsImlhdCI6MTc3MjUyNDU2MCwiY2lkIjo2LCJ1aWQiOjEwMTQxNDU4MTcsInJlZyI6ZmFsc2UsImlwIjo3NjQ4ODY3NDcsImFkdWx0IjpmYWxzZX0.mwMLDD1rRUMnjy74vltpqXNkcoDG1uPKBtaJowdyeyA&offset=10
+https://edge05-alm.beetv.kz/bpk-token/3an@nlpknqra3jvbwu10o1idp4u0al10tkdmnlabfqba/bpk-tv/000002943/tve/000002943-audio_82882_rus=82400-video=5287600.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="dom kino premium" tvg-logo="https://ramnet.ru/tv/logo/000002943.png", Дом Кино Премиум HD
 https://edge05-alm.beetv.kz/bpk-token/3an@1zsaubv0lcqgunjjjz3pkfbid0oweani1z3l2bba/bpk-tv/000002943/tve/000002943-audio_82882_rus=82400-video=5287600.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="russkai-komedia" tvg-logo="https://www.cableman.ru/sites/default/files/komediya.jpg", Русская комедия
