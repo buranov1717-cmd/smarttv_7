@@ -3,7 +3,7 @@
 #EXTINF:-1 tvg-id="ntv-xit" tvg-logo="https://iptvx.one/picons/ntv-xit.png" group-title="Кино и сериалы",НТВ-Хит
 https://secure-ridge-22999-537c838d4a8a.herokuapp.com/iptv46.mcx-ix.ru:8077/ntv_hit/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="ntv-xit" tvg-logo="https://iptvx.one/picons/ntv-xit.png" group-title="Кино и сериалы",НТВ-Хит
-http://iptv46.mcx-ix.ru:8077/ntv_hit/tracks-v1a1/mono.ts.m3u8
+https://server1.musical.uz/ntvxit_web/tracks-v1a1/mono.m3u8?remote=89.28.106.136&token=774fcc810041bd182c78a2b7514ee0d5a0c90a77-d0049c13e1a99ffc9586afde01261521-1772910168-1772899368
 #EXTINF:-1 tvg-id="ntv-xit" tvg-logo="https://iptvx.one/picons/ntv-xit.png" group-title="Кино и сериалы",НТВ-Хит
 https://s.pokaz.me/ZpqtmK5hnOAxxy8YwtS_Tw/508/1772916560/index.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="ntv-serial" tvg-logo="https://toplogos.ru/images/logo-ntv-serial.png", НТВ-Сериал
