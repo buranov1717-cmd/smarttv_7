@@ -27,7 +27,7 @@ http://194.32.242.245/Komediya/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Кино" audio-track="rus", Мосфильм. Золотая коллекция
 http://178.134.1.158:8081/mosfilm/index.m3u8
 #EXTINF:-1 group-title="Кино" audio-track="rus", Мосфильм. Золотая коллекция
-https://edge04-alm.beetv.kz/bpk-token/3an@swugk50zq0i31hgjo4p5ujnu4nufvr0xsuddkcaa/bpk-tv/000006365/tve/000006365-audio_82882_rus=82400-video=2137600.m3u8
+https://edge04-alm.beetv.kz/bpk-token/3an@aqe0gpsxsi12zwswqyh1zjun42aerwztast5gsaa/bpk-tv/000006365/tve/000006365-audio_82882_rus=82400-video=2137600.m3u8
 #EXTINF:-1 group-title="Общие" tvg-id="pervy" tvg-logo="https://www.cableman.ru/sites/default/files/pervyy_kanal.png", Первый канал
 http://194.8.128.38:8080/ort/playlist.m3u8
 #EXTINF:-1 group-title="Общие" tvg-id="pervy" tvg-logo="https://www.cableman.ru/sites/default/files/pervyy_kanal.png", Первый канал
