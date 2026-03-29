@@ -99,7 +99,7 @@ https://cdn4.skygo.mn/live/disk1/Vremya/HLSv3-FTA/Vremya.m3u8
 https://a3569457567-s70378.cdn.ngenix.net/vremia/2/index.m3u8
 #EXTINF:-1 tvg-id="krasnaya-linia" tvg-logo="https://iptvx.one/picons/krasnaya-linia.png" group-title="Общественные",Красная линия
 https://s55766.cdn.ngenix.net/s55766-media-origin/rline_high/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="mult" tvg-logo="https://toplogos.ru/images/logo-mult.png" group-title="Детские",МУЛЬТ
+#EXTINF:-1 tvg-id="mult.tlum.ru" tvg-logo="https://toplogos.ru/images/logo-mult.png" group-title="Детские",МУЛЬТ
 https://stream8.cinerama.uz/1246/tracks-v1a1/mono.m3u8
 #EXTINF:-1 catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="piatnica" tvg-logo="http://epg.one/img2/1003.png" group-title="Развлекательные",Пятница!
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
