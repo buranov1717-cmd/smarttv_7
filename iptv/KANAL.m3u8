@@ -42,6 +42,8 @@ https://pkvc-hls7.cdnvideo.ru/pkvc/pk/tracks-v1a1/mono.ts.m3u8?hls_proxy_host=95
 https://streaming.thestream.cyou/live/43-req_offset_28000000-req_window_0-1k_v5.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="pobeda" tvg-logo="https://images.iptv.rt.ru/images/ch4dibbmhk079s3jpetg.png", Победа
 https://s.xittv.net/xRb5uJnef5TchONuAUKdVw/218/1775061578/index.m3u8
+#EXTINF:-1 group-title="Кино" tvg-id="pobeda" tvg-logo="https://images.iptv.rt.ru/images/ch4dibbmhk079s3jpetg.png", Победа
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/CXRDFUL9XD7DCPGKWN9HFWPU/2003/index.m3u8
 #EXTINF:-1 tvg-id="tnt" tvg-logo="https://iptvx.one/picons/tnt.png",ТНТ
 http://185.46.16.239:8000/TNT
 #EXTINF:-1 tvg-id="tnt" tvg-logo="https://iptvx.one/picons/tnt.png",ТНТ
