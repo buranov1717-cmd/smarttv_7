@@ -21,7 +21,7 @@ https://stream8.cinerama.uz/1054/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="dom kino premium" tvg-logo="https://ramnet.ru/tv/logo/000002943.png", Дом Кино Премиум HD
 https://a3569457567-s70378.cdn.ngenix.net/dom_kino_premium_hd/4/index.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="dom kino premium" tvg-logo="https://ramnet.ru/tv/logo/000002943.png", Дом Кино Премиум HD
-https://a3569457567-s70378.cdn.ngenix.net/dom_kino_premium_hd/4/index.m3u8
+http://188.225.31.197/bpk-tv/000002943/tve/index.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="russkai-komedia" tvg-logo="https://www.cableman.ru/sites/default/files/komediya.jpg", Русская комедия
 http://194.32.242.245/Komediya/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Кино" audio-track="rus", Мосфильм. Золотая коллекция
