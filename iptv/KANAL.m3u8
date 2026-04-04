@@ -28,12 +28,6 @@ http://194.32.242.245/Komediya/tracks-v1a1/mono.m3u8
 http://178.134.1.158:8081/mosfilm/index.m3u8
 #EXTINF:-1 group-title="Кино" audio-track="rus", Мосфильм. Золотая коллекция
 https://tv.tvcdnpotok.com/I-JnK9ssINztocizkJhw6w/235/1773958155/index.m3u8
-#EXTINF:0 group-title="Кино" tvg-id="3357" tvg-logo="http://epg.one/img2/3357.png" tvg-rec="0",Мосфильм. Золотая коллекция HD
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/CXRDFUL9XD7DCPGKWN9HFWPU/7347/index.m3u8
-#EXTINF:0 group-title="Кино" tvg-id="3357" tvg-logo="http://epg.one/img2/3357.png" tvg-rec="3",Мосфильм. Золотая коллекция
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/CXRDFUL9XD7DCPGKWN9HFWPU/6392/index.m3u8
-#EXTINF:0 group-title="Кино" tvg-id="3357" tvg-logo="http://epg.one/img2/3357.png" tvg-rec="3",Мосфильм. Золотая коллекция orig
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/CXRDFUL9XD7DCPGKWN9HFWPU/9156/index.m3u8
 #EXTINF:-1 group-title="Общие" tvg-id="pervy" tvg-logo="https://www.cableman.ru/sites/default/files/pervyy_kanal.png", Первый канал
 http://194.8.128.38:8080/ort/playlist.m3u8
 #EXTINF:-1 group-title="Общие" tvg-id="pervy" tvg-logo="https://www.cableman.ru/sites/default/files/pervyy_kanal.png", Первый канал
