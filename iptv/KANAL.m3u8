@@ -24,8 +24,6 @@ https://a3569457567-s70378.cdn.ngenix.net/dom_kino_premium_hd/4/index.m3u8
 http://188.225.31.197/bpk-tv/000002943/tve/index.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="russkai-komedia" tvg-logo="https://www.cableman.ru/sites/default/files/komediya.jpg", Русская комедия
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/F5GDYXTUM2QBV3/733/index.m3u8
-#EXTINF:-1 group-title="Кино" tvg-id="russkai-komedia" tvg-logo="https://www.cableman.ru/sites/default/files/komediya.jpg", Русская комедия
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/F5GDYXTUM2QBV3/9144/index.m3u8
 #EXTINF:-1 group-title="Кино" audio-track="rus", Мосфильм. Золотая коллекция
 http://178.134.1.158:8081/mosfilm/index.m3u8
 #EXTINF:-1 group-title="Кино" audio-track="rus", Мосфильм. Золотая коллекция
@@ -35,13 +33,9 @@ http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/F5GDYXTUM2QBV3/6392/inde
 #EXTINF:-1 group-title="Кино" audio-track="rus", Мосфильм. Золотая коллекция
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/F5GDYXTUM2QBV3/9156/index.m3u8
 #EXTINF:-1 group-title="Общие" tvg-id="pervy" tvg-logo="https://www.cableman.ru/sites/default/files/pervyy_kanal.png", Первый канал
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/F5GDYXTUM2QBV3/204/index.m3u8
-#EXTINF:-1 group-title="Общие" tvg-id="pervy" tvg-logo="https://www.cableman.ru/sites/default/files/pervyy_kanal.png", Первый канал
 https://pkvc-hls7.cdnvideo.ru/pkvc/pk/tracks-v1a1/mono.ts.m3u8?hls_proxy_host=951f88b726ecd199ff293e3eaf4810e7
 #EXTINF:-1 group-title="Кино" tvg-id="pobeda" tvg-logo="https://images.iptv.rt.ru/images/ch4dibbmhk079s3jpetg.png", Победа
 https://streaming.thestream.cyou/live/43-req_offset_28000000-req_window_0-1k_v5.m3u8
-#EXTINF:-1 group-title="Кино" tvg-id="pobeda" tvg-logo="https://images.iptv.rt.ru/images/ch4dibbmhk079s3jpetg.png", Победа
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/F5GDYXTUM2QBV3/2003/index.m3u8
 #EXTINF:-1 tvg-id="tnt" tvg-logo="https://iptvx.one/picons/tnt.png",ТНТ
 http://185.46.16.239:8000/TNT
 #EXTINF:-1 tvg-id="tnt" tvg-logo="https://iptvx.one/picons/tnt.png",ТНТ
