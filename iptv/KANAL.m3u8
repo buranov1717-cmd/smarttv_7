@@ -50,6 +50,8 @@ https://s.ontivi.net/vIDyqyLL_rO4Xj6VZSLlZg/544/1790107235/index.m3u8
 https://stream8.cinerama.uz/1020/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="rossia1" tvg-logo="https://iptvx.one/picons/rossia1.png" group-title="Общественные",Россия РТР
 https://streaming.goodstream.icu/live/211-req_offset_28000000-req_window_0-1k_v5.m3u8
+#EXTINF:-1 tvg-id="rutube tv" tvg-logo="https://cdn.3dnews.ru/assets/external/illustrations/2025/07/09/1125691/79fe421ec.jpg" group-title="Общественные",Россия РТР
+https://river-6-601.rtbcdn.ru/stream/genetta-418.ntv.rutube.ru/S1KVzx-_chVZMrNUXVKZVg/1792419109/9ae8e8a6dc58bdad66190475f9872ecd/1080p_stream.m3u8
 #EXTINF:-1 tvg-id="ntv" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="http://epg.one/img2/162.png" group-title="Общественные",НТВ МИР
 https://streaming.thestream.cyou/live/213-req_offset_28000000-req_window_0-1k_v5.m3u8
 #EXTINF:-1 tvg-id="ntv" tvg-logo="http://epg.one/img2/162.png" group-title="Общественные",НТВ
